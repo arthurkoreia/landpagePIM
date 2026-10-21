@@ -7,6 +7,10 @@
 </head>
 <body>
 
+    <div style="width: 100%; height: 200px; background: repeating-linear-gradient(45deg, #FF4500, #FF4500 10px, #FF8C00 10px, #FF8C00 20px);">
+    
+    </div>
+    
     <header>
         <h1>Arthur Lima</h1>
         <nav>
